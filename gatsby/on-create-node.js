@@ -8,11 +8,11 @@ const onCreateNode = ({ node, actions, getNode }) => {
 
   if (node.internal.type === 'MarkdownRemark') {
     if (typeof node.frontmatter.slug !== 'undefined') {
-      const dirname = getNode(node.parent).relativeDirectory;
+      // const dirname = getNode(node.parent).relativeDirectory;
       createNodeField({
         node,
         name: 'slug',
-        value: `/${dirname}/${node.frontmatter.slug}`
+        value: node.frontmatter.slug
       });
     } else {
       const value = createFilePath({ node, getNode });
@@ -29,7 +29,7 @@ const onCreateNode = ({ node, actions, getNode }) => {
     }
 
     if (node.frontmatter.category) {
-      const categorySlug = `/category/${_.kebabCase(node.frontmatter.category)}/`;
+      const categorySlug = `/tag/${_.kebabCase(node.frontmatter.category)}/`;
       createNodeField({ node, name: 'categorySlug', value: categorySlug });
     }
   }
