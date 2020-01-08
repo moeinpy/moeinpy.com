@@ -23,8 +23,8 @@ export const PureAuthor = ({ author, showBio, showTwitter }) => {
             </Link>
             {showTwitter && ' '}
             {showTwitter && (
-              <a style={{ fontWeight: 500 }} href="https://twitter.com/victorczhou" target="_blank" rel="noopener noreferrer">
-                @victorczhou
+              <a style={{ fontWeight: 500 }} href="https://twitter.com/moeinpy" target="_blank" rel="noopener noreferrer">
+                @moeinpy
               </a>
             )}
           </h4>
