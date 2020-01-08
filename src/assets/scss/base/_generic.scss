@@ -167,3 +167,39 @@ figcaption {
   }
 
 }
+
+@include breakpoint-xs {
+  .hidden-xs {
+    display: none;
+  }
+}
+
+@include breakpoint-sm {
+  .hidden-xs {
+    display: block !important;
+  }
+  
+  .hidden-sm {
+    display: none;
+  }
+}
+
+@include breakpoint-md {
+  .hidden-sm {
+    display: block !important;
+  }
+  
+  .hidden-md {
+    display: none;
+  }
+}
+
+@include breakpoint-lg {
+  .hidden-md {
+    display: block !important;
+  }
+    
+  .hidden-lg {
+    display: none;
+  }
+}
