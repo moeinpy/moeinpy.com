@@ -176,7 +176,7 @@ figcaption {
 
 @include breakpoint-sm {
   .hidden-xs {
-    display: block !important;
+    display: block;
   }
   
   .hidden-sm {
@@ -186,7 +186,7 @@ figcaption {
 
 @include breakpoint-md {
   .hidden-sm {
-    display: block !important;
+    display: block;
   }
   
   .hidden-md {
@@ -196,7 +196,7 @@ figcaption {
 
 @include breakpoint-lg {
   .hidden-md {
-    display: block !important;
+    display: block;
   }
     
   .hidden-lg {
