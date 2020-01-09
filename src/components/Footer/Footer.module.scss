@@ -1,0 +1,8 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.footer {
+  border-top: $color-gray-border thin solid;
+  padding-top: 20px;
+  margin-top: 20px;
+}

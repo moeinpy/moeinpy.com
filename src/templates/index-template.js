@@ -4,6 +4,7 @@ import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Sidebar from '../components/Sidebar';
 import Feed from '../components/Feed';
+import Footer from '../components/Footer';
 import Page from '../components/Page';
 import Pagination from '../components/Pagination';
 import { useSiteMetadata } from '../hooks';
@@ -40,6 +41,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
           hasPrevPage={hasPrevPage}
           hasNextPage={hasNextPage}
         />
+        <Footer />
       </Page>
     </Layout>
   );
