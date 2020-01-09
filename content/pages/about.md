@@ -1,14 +1,11 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/media/image-2.jpg"
-slug: "about"
+template: page
+title: About me
+slug: about
+draft: false
 ---
+Hello. My name is Moein. I live in Seattle with my lovely wife, and I'm originally from a beautiful little town named Ramsar by the southern coast of the Caspian Sea in Iran. Living in the US as an Iranian has proven more challenging than a young hopeful me could imagine, but I try to focus on the natural and cultural beauties of both countries. It's easy for me to see that as people we are a lot more similar than different, and I hope that understanding becomes more widespread in every aspect of our relationships.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I work at Microsoft as a Software Engineer. Like many, I got obsessed with computers at a young age, and working for Microsoft became a childhood dream. Not a small dream for a little boy from a low-income family in Iran who had to beg for years before he got a PC of his own, but I was fortunate enough to find out, many years later, that dreams are not there to come true, but to keep you going. They’re ideological beings that like biological ones come to life, mature, serve their purpose, and die to open room for new ones.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+These days, on a work day, you can usually find me converting carbs and caffeine to code in a Microsoft office in Redmond. On my own time, I improve my snowboarding on The Cascades, hang out with friends and family, play soccer, board games, video games, hack small software projects or games, or write about random topics. Of course, that’s when I’m not on Youtube.
