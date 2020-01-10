@@ -29,7 +29,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'Software Engineer @ Microsoft, hobbyist game developer, wannabe writer, fake philosopher, amateur snowboarder, soccer fan, human',
     contacts: {
-      email: 'moeinpy@gmail.com',
+      email: 'moeinpy+blog@gmail.com',
       facebook: '',
       telegram: '',
       twitter: 'moeinpy',
