@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© Moein Pahlavan 2020',
   disqusShortname: '',
   postsPerPage: 8,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-154006507-2',
   useKatex: false,
   menu: [
     {
