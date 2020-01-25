@@ -4,7 +4,7 @@ title: 'Here I start writing, or why I stop writing on social media '
 slug: here-I-start-writing
 draft: false
 date: 2020-01-26T06:14:09.117Z
-description: I finally start a blog
+description: I liked occasional writing, but I never had a blog. I used to share some of my writings on social media, but now it's time to move on to a better platfrom.
 category: Thoughts
 tags:
   - Thoughts
