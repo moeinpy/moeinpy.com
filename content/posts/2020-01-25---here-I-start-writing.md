@@ -7,8 +7,8 @@ date: 2020-01-26T06:14:09.117Z
 description: I like writing, but I never had a blog. I used to share some of my writings on social media, but now it's time to move on to a better platfrom.
 category: Thoughts
 tags:
-  - Thoughts
   - Personal
+  - Writing
 socialImage: ''
 ---
 I like writing. It engages my mind like no other method of expression. I can crawl into a corner of introversion, yet feel that I’m talking to someone. I can let my mind go wild on daydreaming journeys without a worry, and when it comes back I get to sort through what I have found. I can take time to shape it and polish it with no rush, and when I’m done, I have something to show for it. I can share it and I can later talk about it with greater clarity and conviction.
