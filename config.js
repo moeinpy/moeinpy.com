@@ -34,7 +34,7 @@ module.exports = {
       telegram: '',
       twitter: 'moeinpy',
       github: 'moeinpy',
-      rss: '',
+      rss: 'https://moeinpy.com/rss.xml',
       vkontakte: '',
       linkedin: 'moeinpy',
       instagram: '',
