@@ -12,6 +12,7 @@ category: Career
 tags:
   - Career
   - Lifestyle
+socialImage: '/media/grassfield.jpg'
 ---
 
 ![](/media/grassfield.jpg)
