@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Moein Pahlavan',
     photo: '/photo.jpg',
-    bio: 'Software Engineer @ Microsoft, hobbyist game developer, wannabe writer, fake philosopher, amateur snowboarder, soccer fan, human',
+    bio: 'A rolling <a href="https://gerdoo.games" target="_blank">Gerdoo</a>, software engineer, game developer, wannabe writer, fake philosopher, amateur snowboarder, soccer fan, human',
     contacts: {
       email: 'moeinpy+blog@gmail.com',
       facebook: '',

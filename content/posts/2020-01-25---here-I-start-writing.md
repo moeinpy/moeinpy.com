@@ -5,9 +5,9 @@ slug: here-I-start-writing
 draft: false
 date: 2020-01-26T06:14:09.117Z
 description: I like writing, but I never had a blog. I used to share some of my writings on social media, but now it's time to move on to a better platfrom.
-category: Thoughts
+category: Writing
 tags:
-  - Personal
+  - Lifestyle
   - Writing
 socialImage: ''
 ---
