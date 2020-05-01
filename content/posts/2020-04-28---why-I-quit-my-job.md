@@ -3,7 +3,7 @@ template: post
 title: Why I quit my software engineering job to make a game
 slug: why-I-quit-my-job
 draft: false
-date: '2020-04-28T00:00:00.001Z'
+date: '2020-04-28T15:00:00-0800'
 description: >-
   I finally quit my job at Microsoft to work on my own game project.
   It took me a long time to introspect before I could make the decision and I learned many things about myself.
@@ -35,3 +35,5 @@ I think this is a pitfall we so often fall into. We sometimes like the idea of s
 For the past few years, I have been playing with the idea of quitting my job to work on a game. I spent hours of my free time to prototype, test, and refine the idea and I knew I have something worthy of further effort. The idea of publishing my own creative project always sounded exciting, but I found it extremely hard to pull the trigger and just do it. Initially I thought that it's just a question of financial risk, but I realized what's stopping me is more psychological than financial. On paper, I had a great job and I liked it. It was what I once dreamed of, planned for and worked hard towards. It checked a lot of boxes for me and it paid well too, but it was getting increasingly boring and I was losing focus. I knew I could do it better and accomplish more, but I just didn't want to. I had no reasons to give it all. Something was missing. I was not inspired. I started blaming myself for not being able to feel happy with what I had, even when it was a dream-come-true. This mental space can be very exhausting. You can feel a mild but constant sense of unhappiness emerging in the back of your mind, and the shadow slowly but steadily grows larger. I knew I had to do something about it; something better than suppressing it. I started do a lot of soul searching to figure out what I'm really after and what my values are. That finally led to me pulling the trigger with more confidence and peace that I otherwise could. Now that I have quit my job to start [Gerdoo Games](https://gerdoo.games), I decided to write down my thoughts for my own future reference and to share with others. I will explore my ideas about happiness, success, money, career, responsibilities, inspiration, creativity, and risk-taking and how I had to sort through my thoughts and emotions before I could make up my mind.
 
 Since this is too long for one post, I have broken it up to a series and will explore each aspect of it in a separate post. This is not really a guide or practical advice. This is not "10 things to do before quitting your job". It's about sharing a very subjective and personal experience that hopefully is relatable or insightful to some. Anyway, I hope you stay tuned in the coming days for the next part.
+
+*I posted the next part: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)*
