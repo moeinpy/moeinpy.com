@@ -1,11 +1,11 @@
 ---
 template: post
-title: 'The anxiety of freedom: why we keep working for money'
+title: 'The anxiety of freedom: your job is not the tyrant'
 slug: anxiety-of-freedom
 draft: false
 date: '2020-05-05T15:00:00-0800'
 description: >-
-  We work hard to earn more freedom in our lives, but only few of us use that freedom meaningfully. Having to decide how to use our freedom often makes us anxious and leads us to give up our freedom to something else for a sense of security and comfort. Then we blame the very same thing for not allowing us to pursure our dreams. That thing is quite often our job or the ideal of a successful career.
+  We work hard to earn more freedom in our lives, but only few of us use that freedom meaningfully. Having to decide how to use our freedom often makes us anxious and leads us to give it up to something else for a sense of security and comfort. Then we blame the very same thing for not allowing us to pursue our dreams. That thing is quite often our job or the ideal of a successful career.
 category: Career
 tags:
   - Career
@@ -28,6 +28,7 @@ The world is full of clichés and inspirational quotes. They’re useful, but I 
 
 
 ## I don’t know what makes me happy
+
 It was liberating for me to admit this. It’s not an easy thing to admit. As we grow up, we are fed ideas about happiness and success. Parents, peers, books, billions of dollars of marketing budget; the whole society is constantly shaping our idea of success and happiness, and as kids, things captivate us much easier than adults. This is not necessarily a bad thing. After all, our inspirations come from the same place. However, they can be a problem if we follow them religiously without ever reevaluating them honestly, which is constant work. Every time I challenged my existing ideals and goals in life and replaced them with new ones, I had to eventually reconsider them. The closer I got to make them a reality, the less inspiring and motivating they'd become. At some point I realized that achievements are less about what you achieve than the process of achieving them; that dreams are not there to come true, but to keep us going. It's especially true when your dream is landing a job. If it’s a car and you don’t like it that much after you bought it, then it’ll still be of use; if it’s a job, it will consume your life and deprives you of other possibilities. Landing a job can't be *the thing* that makes you happy once you have it; you'd have to enjoy doing it every day. By admitting that I don’t know what makes me happy, my aim went from pursuing *the thing* that I thought would make me happy to the pursuit of happiness itself.
 
 <figure>
@@ -64,6 +65,7 @@ Dealing with this anxiety is hard if you start by looking at your own life and r
 Obviously, you don’t have to look at wealthy people to find inspiration. There are indie artists and all sorts of hobbyists and enthusiasts that inspire me, and they are on very different levels of financial success. The common denominator between them is that they’re using their freedom to express themselves more passionately and elaborately through some form of creation. Some of them try to align those expressions with something other people are willing to pay for so they can earn more money, only to use that money for a bigger and more elaborate expression. Some forms of creative projects have more economic value than others, but it’s getting increasingly more accessible to market all kinds of creative work on the internet. The balance between earning and using financial freedom is different for each person, and I am not the one to give any practical advice on this, but the key is to remember that there is a balance.
 
 ## But what is worthy of my time?
+
 Even after finding inspiration and getting determined to use my financial freedom, I still had a question to answer. How do you know what your real passion is? What is worth spending your freedom on? It took me a lot of time before I could commit to [my current project](https://gerdoo.games). Sometimes, it’s difficult to tell inspirations apart from temptations. I’d let my “passion” take me to the deep pit of video game addiction before, or exhaust myself in manic phases of trying a barrage of new ideas with no end in sight. My last and probably tallest hurdle was to decide if I’m being tempted or inspired; if I'm following a true passion or a pipe dream. I will talk about this in the next (and probably the final) post of this series.
 
 ## References
