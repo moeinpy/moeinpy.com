@@ -13,7 +13,7 @@ tags:
 socialImage: '/media/birds-on-wire.jpg'
 ---
 
-*This is the third part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make a game. I mostly talk about the revelations that I had during a time period of introspection before I could make that decision. If you want to have the full context, start from [the beginning](/why-I-quit-my-job).*
+*This is the third part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision. If you want to have the full context, start from [the beginning](/why-I-quit-my-job).*
 
 ![](/media/birds-on-wire.jpg)
 
