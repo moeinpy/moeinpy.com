@@ -36,3 +36,5 @@ To find out what lifestyle you'd like to build and what age you want to retire, 
 
 --
 *P.S. Writing this, I resisted the urge to talk about the broader social and economic issues that play into this topic; things like current state of the economic consolidation, the increasing infeasibility of working outside the umbrella of corporations, finding work meaningful in a highly specialized economy, etc. There is a lot of literature about them and I really like to explore them, but they are outside the scope of this series and these posts are already long. So, maybe later.*
+
+*I posted the next part: [The anxiety of freedom: why you keep working for money](/anxiety-of-freedom)*
