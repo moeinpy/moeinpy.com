@@ -14,6 +14,12 @@ tags:
   - Lifestyle
 socialImage: '/media/grassfield.jpg'
 ---
+*This is the first part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision.*
+
+- **Part 1: Why I quit my software engineering job to make a game**
+- Part 2: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)
+- Part 3: [The anxiety of freedom: your job is not the tyrant](/anxiety-of-freedom)
+- Part 4: [Temptation or Inspiration: how to overcome doubt](/temptation-or-inspiration)
 
 ![](/media/grassfield.jpg)
 
@@ -36,4 +42,4 @@ For the past few years, I have been playing with the idea of quitting my job to 
 
 Since this is too long for one post, I have broken it up to a series and will explore each aspect of it in a separate post. This is not really a guide or practical advice. This is not "10 things to do before quitting your job". It's about sharing a very subjective and personal experience that hopefully is relatable or insightful to some. Anyway, I hope you stay tuned in the coming days for the next part.
 
-*I posted the next part: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)*
+**Next Part: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)**

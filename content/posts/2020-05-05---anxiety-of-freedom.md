@@ -13,15 +13,20 @@ tags:
 socialImage: '/media/birds-on-wire.jpg'
 ---
 
-*This is the third part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision. If you want to have the full context, start from [the beginning](/why-I-quit-my-job).*
+*This is the third part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision.*
+
+- Part 1: [Why I quit my software engineering job to make a game](/why-I-quit-my-job)
+- Part 2: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)
+- **Part 3: The anxiety of freedom: your job is not the tyrant**
+- Part 4: [Temptation or Inspiration: how to overcome doubt](/temptation-or-inspiration)
 
 ![](/media/birds-on-wire.jpg)
 
-- Do what makes you happy.
-- Don’t doubt yourself.
-- Listen to your inner voice!
-- Just do it!
-- Just follow your passion.
+- *Do what makes you happy.*
+- *Don’t doubt yourself.*
+- *Listen to your inner voice!*
+- *Just do it!*
+- *Just follow your passion.*
 
 Are these really good advice? Some of the most horrifying criminals blame their “inner voice” for what they did. If that’s the case, I wish they had doubted themselves and hadn’t listened to that voice.
 The world is full of clichés and inspirational quotes. They’re useful, but I think most of us are confused about their purpose. They’re great for making a spark and intrigue you into something interesting, but they don’t give you answers or instructions. They point you to a direction and give you the ignition energy to set you on a journey towards a deeper truth. Quite often we just take that initial energy and convert it to a feel-good candy and move on with our lives. I did a lot of just that when I was deciding to quit my job, but they were never enough for me to make up my mind. The same generic advice can result in very different results for people with different values. You should set on your own journey to find your values, define popular terms like happiness and success, put your inputs into the context of your life, and build up the unique system of the universe that you call “me”. For me, it started by trying to define happiness and what makes me happy.
@@ -70,3 +75,5 @@ Even after finding inspiration and getting determined to use my financial freedo
 
 ## References
 An interesting and insightful post/video on freedom and anxiety: https://academyofideas.com/2019/09/freedom-and-anxiety-inner-god-vs-inner-worm/
+
+**Next Part: [Temptation or Inspiration: how to overcome doubt](/temptation-or-inspiration)**

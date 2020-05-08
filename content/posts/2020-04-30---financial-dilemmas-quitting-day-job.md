@@ -12,9 +12,15 @@ tags:
   - Lifestyle
 socialImage: '/media/coins.jpg'
 ---
-![](/media/coins.jpg)
 
-*This is the second part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision. If you want to have the full context, start from [the beginning](/why-I-quit-my-job).*
+*This is the second part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision.*
+
+- Part 1: [Why I quit my software engineering job to make a game](/why-I-quit-my-job)
+- **Part 2: Dealing with financial dilemmas of quitting my day job**
+- Part 3: [The anxiety of freedom: your job is not the tyrant](/anxiety-of-freedom)
+- Part 4: [Temptation or Inspiration: how to overcome doubt](/temptation-or-inspiration)
+
+![](/media/coins.jpg)
 
 When someone talks about quitting their job, one of the first things that comes to mind is money. There is no shortage of practical money advice in the world, so I'm going spare you mine. It can be a very subjective and situational topic too. Same advice may sound funny and petty to someone with a lot more financial freedom, or sound like rich-people-problems to those who have a lot less. Instead, I'm going to share what I've learned about how to think about money when making a decision within my own risk profile. That means it applies to decisions that even in their worst case wouldn't put my survival at risk, but maybe set back my long-term financial goals significantly. I'm actually financially risk-averse and do my due diligence to calculate financial risk. Doing this helps me make a more informed decision and stay calm when taking risks. I recommend everyone to learn how to get on top of your finances and learn to sometimes put some numbers on feelings. However, there is always uncertainty and there is always a psychological component to it. With big decisions like putting a couple of your prime productive years into a risky project, you will need more than just numbers to guide your decision. In my case, my wife and I have been saving for years and thanks to the savings and her income we won't be in financial strain. Nevertheless, it's a big mental barrier to quit a promising career path you've worked for. I'm going to focus on how I dealt with that barrier.
 
@@ -37,4 +43,4 @@ To find out what lifestyle you'd like to build and what age you want to retire, 
 --
 *P.S. Writing this, I resisted the urge to talk about the broader social and economic issues that play into this topic; things like current state of the economic consolidation, the increasing infeasibility of working outside the umbrella of corporations, finding work meaningful in a highly specialized economy, etc. There is a lot of literature about them and I really like to explore them, but they are outside the scope of this series and these posts are already long. So, maybe later.*
 
-*I posted the next part: [The anxiety of freedom: why you keep working for money](/anxiety-of-freedom)*
+**Next Part: [The anxiety of freedom: why you keep working for money](/anxiety-of-freedom)**

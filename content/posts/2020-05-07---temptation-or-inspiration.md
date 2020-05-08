@@ -1,19 +1,28 @@
 ---
 template: post
-title: 'Temptations vs. Inspirations: how to tell them apart'
-slug: temptations-vs-inspirations
+title: 'Temptation or Inspiration: how to overcome doubt'
+slug: temptation-or-inspiration
 draft: false
 date: '2020-05-07T15:00:00-0800'
 description: >-
-  We work hard to earn more freedom in our lives, but only few of us use that freedom meaningfully. Having to decide how to use our freedom often makes us anxious and leads us to give it up to something else for a sense of security and comfort. Then we blame the very same thing for not allowing us to pursue our dreams. That thing is quite often our job or the ideal of a successful career.
+  Every difficult decision in life leads to a final moment of decisiveness. No matter how long you prepare for it, you can doubt your intentions at the very last moment. You have to be able to tell apart if what you're doing is out of temptation or inspiration. In this post, I explore how I dealt with this final obstacle in the process of quitting my job.
 category: Career
 tags:
   - Career
   - Lifestyle
-socialImage: '/media/birds-on-wire.jpg'
+socialImage: '/media/apple.jpg'
 ---
 
-This is the last post in this series and just like the series finale of Game of Thrones, it's twice as long and half as fun. So, buckle up! In the past three posts, I talked about my journey from thinking about quitting my job to actually doing it. It took a long time to sort through my thoughts and I had to overcome multiple mental barriers one by one. At every stage, I had to use my internal monologue to have an honest discussion with myself, although at times it felt like a crowded hallway with a thousand voices mixed together. These types of self-reflections can be very difficult; it sometimes feels like every thought you had in your life is manifested as a loud and nasty debater in your head raising its voice to talk over other voices, and at some point you have to find the voice that is “you” and is in control (or is it?) and tell everyone to shut the f*** up. Hopefully, you can manage the discussion and call in these voices to your imaginary office one by one and listen to what they have to say. I talked about how I had to deal with the growing shadow that was getting bigger the more I escaped it, and then the calculative accountant telling me I could maximize my financial security, and then the scared voice with the anxiety of freedom. Ultimately, I had to have a final and difficult discussion with the devil himself; a voice that was telling me that this whole thing is a temptation; that you, the guy sitting in the office calling in other voices, is actually not you! It’s the devil, and it’s been in control this whole time, and the other guy --who was just called in last-- is the real you (or maybe God?) trying to save you from this big temptation. Which one is the real you? Which one do you trust? Wait, who is the person trusting one of these voices? Is that the real you? It was getting too abstract, so I fell to my knees and prayed to The Almighty to help me… just kidding, let’s sort this out.
+*This is the fourth and final part of a series of posts I'm writing about why I quit my software engineering job at Microsoft to make [a game](https://gerdoo.games). I mostly talk about the revelations that I had during a time period of introspection before I could make that decision.*
+
+- Part 1: [Why I quit my software engineering job to make a game](/why-I-quit-my-job)
+- Part 2: [Dealing with financial dilemmas of quitting my day job](/financial-dilemmas-quitting-day-job)
+- Part 3: [The anxiety of freedom: your job is not the tyrant](/anxiety-of-freedom)
+- **Part 4: Temptation or Inspiration: how to overcome doubt**
+
+![](/media/apple.jpg)
+
+This is the last post of the series and just like the series finale of Game of Thrones, it's twice as long and half as fun. So, buckle up! In the past three posts, I talked about my journey from thinking about quitting my job to actually doing it. It took a long time to sort through my thoughts and I had to overcome multiple mental barriers one by one. At every stage, I had to use my internal monologue to have an honest discussion with myself, although at times it felt like a crowded hallway with a thousand voices mixed together. These types of self-reflections can be very difficult; it sometimes feels like every thought you had in your life is manifested as a loud and nasty debater in your head raising its voice to talk over other voices, and at some point you have to find the voice that is “you” and is in control (or is it?) and tell everyone to shut the f*** up. Hopefully, you can manage the discussion and call in these voices to your imaginary office one by one and listen to what they have to say. I talked about how I had to deal with the growing shadow that was getting bigger the more I escaped it, and then the calculative accountant telling me I could maximize my financial security, and then the scared voice with the anxiety of freedom. Ultimately, I had to have a final and difficult discussion with the devil himself; a voice that was telling me that this whole thing is a temptation; that you, the guy sitting in the office calling in other voices, is actually not you! It’s the devil, and it’s been in control this whole time, and the other guy --who was just called in last-- is the real you (or maybe God?) trying to save you from this big temptation. Which one is the real you? Which one do you trust? Wait, who is the person trusting one of these voices? Is that the real you? It was getting too abstract, so I fell to my knees and prayed to The Almighty to help me… just kidding, let’s sort this out.
 
 ![](/media/serpent.jpg)
 <div style="text-align: center;">"I tempt you... I double-tempt you..."</div>
